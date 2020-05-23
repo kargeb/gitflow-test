@@ -1,1 +1,1 @@
-console.log("message"); // comment 
+console.log("message");
